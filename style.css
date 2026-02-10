@@ -779,3 +779,24 @@ body {
 .hero-btn:hover {
   background: #084298;
 }
+.logo-section {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-img {
+  width: 55px;
+  height: auto;
+}
+
+.logo-text h1 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.logo-text p {
+  margin: 0;
+  font-size: 13px;
+  color: #666;
+}
